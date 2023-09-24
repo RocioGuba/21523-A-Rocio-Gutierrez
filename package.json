@@ -1,0 +1,19 @@
+{
+  "name": "21523-a-rocio-gutierrez",
+  "version": "1.0.0",
+  "description": "Proyecto Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RocioGuba/21523-A-Rocio-Gutierrez.git"
+  },
+  "author": "Rocio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RocioGuba/21523-A-Rocio-Gutierrez/issues"
+  },
+  "homepage": "https://github.com/RocioGuba/21523-A-Rocio-Gutierrez#readme"
+}

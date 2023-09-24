@@ -119,5 +119,3 @@ Tramo 2
         
         -En la terminal de tu editor de codigo poner "npm run dev" lo cual si todo esta OK te devolvera el host del servidor.
         -Copiar el servidor y abrir en navegador.
-
-        
